@@ -3,7 +3,14 @@
 
 For now this page it just for notes to gather some thoughts on what to consider for inclusion in the project.
 
-The idea for this started after the Scala contributors list called for thoughts and ideas on Scalas own process wrapper package was considered for update.
+The idea comes from when the Scala contributors list called for thoughts and ideas on Scalas process 
+wrapper package, which was considered for update. The ensuing discussion, suggestions, ideas and investigations, 
+has led to consider wether the whole Process design in the JDK is a bit lacking. The features for OS integration seems
+not very powerful. That is something that perhaps should be improved.
+
+## Contributions
+
+Any ideas, thoughts or suggestions are whole-heartedly welcome, as more brainpower is allways a good thing.   
 
 # Main Issues
 
